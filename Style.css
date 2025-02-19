@@ -1,0 +1,23 @@
+
+.home-button {
+    -fx-background-image: url("ArrowUp.png");
+}
+
+
+
+
+
+.home-button{
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 130%;
+    -fx-background-position: center center;
+    -fx-background-color: rgba(0, 88, 122, 1);
+}
+
+
+.font {
+    -fx-color: #000000;
+}
+
+
+
